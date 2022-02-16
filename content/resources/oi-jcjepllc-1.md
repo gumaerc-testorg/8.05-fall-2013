@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-05-quantum-physics-ii-fall-2013/f879577e2660888d278e238385269edc_Oi-JCJePLlc.pdf
+file: /media/courses/8-05-quantum-physics-ii-fall-2013/f879577e2660888d278e238385269edc_Oi-JCJePLlc.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: f879577e-2660-888d-278e-238385269edc
