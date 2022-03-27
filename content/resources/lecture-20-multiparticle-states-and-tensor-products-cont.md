@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -20,6 +21,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 20: Multiparticle States and Tensor Products (cont.) and Angular Momentum'
 uid: 3c0dc2db-9353-c05f-8bfa-40921933ce73
 video_files:

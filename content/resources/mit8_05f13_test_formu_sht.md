@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 66e538e1-4724-c4e5-9962-6c70d9baf8a1
 resourcetype: Document
 title: Quantum Physics II, Test Formula Sheet
 uid: 1764b480-8329-5d5c-8c6f-99813b41e007

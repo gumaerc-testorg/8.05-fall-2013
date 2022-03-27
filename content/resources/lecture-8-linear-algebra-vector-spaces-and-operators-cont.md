@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -14,6 +15,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: Linear Algebra: Vector Spaces and Operators (cont.)'
 uid: b4ece2b3-5658-8b7d-dc08-7e34169d5a06
 video_files:

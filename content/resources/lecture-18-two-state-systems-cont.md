@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -20,6 +21,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 18: Two State Systems (cont.), Multiparticle States and Tensor Products'
 uid: 2e732833-4822-eb41-49ae-d3799bfb0fc2
 video_files:

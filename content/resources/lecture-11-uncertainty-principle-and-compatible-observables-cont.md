@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -14,6 +15,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Uncertainty Principle and Compatible Observables (cont.)'
 uid: 10b3bd42-a3f8-3ca5-283c-5a2e8dab4b7b
 video_files:

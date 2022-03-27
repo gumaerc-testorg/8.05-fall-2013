@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -20,6 +21,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Wave Mechanics (cont.) and Stern-Gerlach Experiment'
 uid: c4d744a0-13f8-7599-1dcc-a5b1aeaf2028
 video_files:

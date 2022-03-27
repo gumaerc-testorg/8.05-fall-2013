@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 66e538e1-4724-c4e5-9962-6c70d9baf8a1
 resourcetype: Document
 title: Quantum Physics II, Final Exam Formula Sheet
 uid: 86dbb2e3-ea80-1d99-104c-488691ed238d
