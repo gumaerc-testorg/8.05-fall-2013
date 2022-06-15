@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: 'This lecture note covers Lectures 18, 19, and 20.
 
 
-  [Multiparticle States and Tensor Products (PDF)](resources/mit8_05f13_chap_08)'
+  [Multiparticle States and Tensor Products (PDF)](/courses/8-05-quantum-physics-ii-fall-2013/resources/mit8_05f13_chap_08)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -30,3 +31,6 @@ video_metadata:
 **Description:** In this lecture, the professor continued to talk about the tensor product and also talked about entangled states, Bell basis states, quantum teleportation, etc.
 
 **Instructor:** Barton Zwiebach
+
+
+

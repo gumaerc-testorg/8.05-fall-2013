@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Dirac''s Bra and Ket Notation (PDF)](resources/mit8_05f13_chap_04)'
+optional_text: '[Dirac''s Bra and Ket Notation (PDF)](/courses/8-05-quantum-physics-ii-fall-2013/resources/mit8_05f13_chap_04)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, the professor talked from inner products to bra-kets, projection operators, adjoint of a linear operator, Hermitian and unitary operators, uncertainty of the Hermitian operator, etc.
 
 **Instructor:** Barton Zwiebach
+
+
+

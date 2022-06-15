@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: 'This lecture note covers Lectures 12, 13, 14, 15, and 16.
 
@@ -36,3 +37,6 @@ video_metadata:
 **Description:** In this lecture, the professor talked about photon states, introduction of two state systems, spin precession in a magnetic field, general two-state system viewed as a spin system, etc.
 
 **Instructor:** Barton Zwiebach
+
+
+

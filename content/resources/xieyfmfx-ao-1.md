@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-05-quantum-physics-ii-fall-2013/d6aab8fd9db51040d4f2dfca3c664778_xieyFMfX-Ao.pdf
+file: /courses/8-05-quantum-physics-ii-fall-2013/d6aab8fd9db51040d4f2dfca3c664778_xieyFMfX-Ao.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

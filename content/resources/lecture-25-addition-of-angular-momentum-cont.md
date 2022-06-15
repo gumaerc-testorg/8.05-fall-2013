@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: 'This lecture note covers Lectures 24, 25, and 26.
 
 
-  [Addition of Angular Momentum (PDF)](resources/mit8_05f13_chap_10)'
+  [Addition of Angular Momentum (PDF)](/courses/8-05-quantum-physics-ii-fall-2013/resources/mit8_05f13_chap_10)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -30,3 +31,6 @@ video_metadata:
 **Description:** In this lecture, the professor reviewed spin-orbit coupling and talked about general aspects of addition of angular momentum, etc.
 
 Instructor: William Detmold
+
+
+

@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: 'This lecture note covers Lectures 10 and 11.
 
 
-  [Uncertainty Principle and Compatible Observables (PDF)](resources/mit8_05f13_chap_05)'
+  [Uncertainty Principle and Compatible Observables (PDF)](/courses/8-05-quantum-physics-ii-fall-2013/resources/mit8_05f13_chap_05)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -30,3 +31,6 @@ video_metadata:
 **Description:** In this lecture, the professor continued to talk about uncertainty principle and compatible observables, etc.
 
 **Instructor:** Barton Zwiebach
+
+
+

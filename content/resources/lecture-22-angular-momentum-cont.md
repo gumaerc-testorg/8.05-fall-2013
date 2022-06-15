@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: 'This lecture note covers Lectures 20, 21, 22, and 23.
 
 
-  [Angular Momentum (PDF)](resources/mit8_05f13_chap_09)'
+  [Angular Momentum (PDF)](/courses/8-05-quantum-physics-ii-fall-2013/resources/mit8_05f13_chap_09)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -30,3 +31,6 @@ video_metadata:
 **Description:** In this lecture, the professor talked about the radial equation, free particle, infinite spherical well, etc.
 
 **Instructor:** Barton Zwiebach
+
+
+

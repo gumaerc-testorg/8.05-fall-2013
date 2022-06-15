@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: 'This lecture note covers Lectures 3 and 4.
 
 
-  [Spin One-half, Bras, Kets, and Operators (PDF)](resources/mit8_05f13_chap_02)'
+  [Spin One-half, Bras, Kets, and Operators (PDF)](/courses/8-05-quantum-physics-ii-fall-2013/resources/mit8_05f13_chap_02)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -30,3 +31,6 @@ video_metadata:
 **Description:** In this lecture, the professor talked about spin one-half states and operators, properties of Pauli matrices and index notation, spin states in arbitrary direction, etc.
 
 **Instructor:** Barton Zwiebach
+
+
+

@@ -5,17 +5,18 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: 'The lecture note below covers Lectures 1, 2, and 3.
 
 
-  [Wave Mechanics (PDF)](resources/mit8_05f13_chap_01)
+  [Wave Mechanics (PDF)](/courses/8-05-quantum-physics-ii-fall-2013/resources/mit8_05f13_chap_01)
 
 
   The lecture note below covers Lectures 3 and 4.
 
 
-  [Spin One-half, Bras, Kets, and Operators (PDF)](resources/mit8_05f13_chap_02)'
+  [Spin One-half, Bras, Kets, and Operators (PDF)](/courses/8-05-quantum-physics-ii-fall-2013/resources/mit8_05f13_chap_02)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -36,3 +37,6 @@ video_metadata:
 **Description:** In this lecture, the professor talked about position and momentum in quantum mechanics, Stern-Gerlach Experiment, etc.
 
 **Instructor:** Barton Zwiebach
+
+
+
