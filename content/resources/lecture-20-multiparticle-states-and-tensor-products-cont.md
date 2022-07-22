@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: 'The lecture note below covers Lectures 18, 19, and 20.
@@ -37,6 +38,4 @@ video_metadata:
 **Description:** In this lecture, the professor talked about EPR and Bell inequalities, orbital angular momentum and central potentials, etc.
 
 **Instructor:** Barton Zwiebach
-
-
 

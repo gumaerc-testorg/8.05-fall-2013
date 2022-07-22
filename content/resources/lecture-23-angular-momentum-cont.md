@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: 'This lecture note covers Lectures 20, 21, 22, and 23.
@@ -31,6 +32,4 @@ video_metadata:
 **Description:** In this lecture, the professor reviewed the free particle and the infinite spherical well and talked about the three-dimensional isotropic oscillator and hydrogen atom and Runge-Lenz vector, etc.
 
 **Instructor:** Barton Zwiebach
-
-
 

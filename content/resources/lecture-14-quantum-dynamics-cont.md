@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: 'This lecture note covers Lectures 12, 13, 14, 15, and 16.
@@ -31,6 +32,4 @@ video_metadata:
 **Description:** In this lecture, the professor talked about translation operator, definition and basic properties of coherent states, time evolution and uncertainties, coherent states in the energy basis, general coherent states and time evolution, etc.
 
 **Instructor:** Barton Zwiebach
-
-
 

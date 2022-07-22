@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: 'This lecture note covers Lectures 5, 6, 7, and 8.
@@ -31,6 +32,4 @@ video_metadata:
 **Description:** In this lecture, the professor talked about vector spaces and dimensionality.
 
 **Instructor:** Barton Zwiebach
-
-
 

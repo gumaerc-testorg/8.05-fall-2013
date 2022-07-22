@@ -6,6 +6,7 @@ file: /courses/8-05-quantum-physics-ii-fall-2013/f27e44d7b761cec0ef1d01734f0a23b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Quantum Physics II, Lecture Notes 10
 uid: f27e44d7-b761-cec0-ef1d-01734f0a23b8
 ---
 This resource file contains information regarding quantum physics II, lecture notes 10.
-

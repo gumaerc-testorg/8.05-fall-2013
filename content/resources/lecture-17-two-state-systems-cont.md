@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: 'This lecture note covers Lectures 16, 17, and 18.
@@ -31,6 +32,4 @@ video_metadata:
 Description: In this lecture, the professor talked about the ammonia molecule as a two-state system, ammonia molecule in an electric field, nuclear magnetic resonance, etc.
 
 Instructor: Barton Zwiebach
-
-
 

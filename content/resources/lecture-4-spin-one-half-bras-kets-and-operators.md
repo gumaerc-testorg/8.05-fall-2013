@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: 'This lecture note covers Lectures 3 and 4.
@@ -31,6 +32,4 @@ video_metadata:
 **Description:** In this lecture, the professor talked about spin one-half states and operators, properties of Pauli matrices and index notation, spin states in arbitrary direction, etc.
 
 **Instructor:** Barton Zwiebach
-
-
 
