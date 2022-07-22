@@ -1,6 +1,10 @@
 ---
 content_type: video_gallery
+description: This section features video lectures on quantum physics.
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Video Lectures
 uid: e171d5b7-5899-75bd-4501-2027f7e5c491
 videos:

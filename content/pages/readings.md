@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the list of required textbooks for the course,
+  a list of references, and the schedule of reading assignments.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: ab4e5622-d2ff-0c29-b752-58ed12c6dc17
 ---
