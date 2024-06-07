@@ -3,6 +3,7 @@ content_type: resource
 description: This resource file contains information regarding quantum physics II,
   lecture notes 5.
 file: /courses/8-05-quantum-physics-ii-fall-2013/005979fa741c3ea2e0430456b70caf93_MIT8_05F13_Chap_05.pdf
+file_size: 349169
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

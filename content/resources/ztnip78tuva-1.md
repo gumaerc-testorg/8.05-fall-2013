@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-05-quantum-physics-ii-fall-2013/e1c76bdee24c0e2b6254ca940afc939d_ZTNip78TUvA.pdf
+file_size: 84786
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
