@@ -3,6 +3,7 @@ content_type: resource
 description: This resource file contains information regarding final exam formula
   sheet.
 file: /courses/8-05-quantum-physics-ii-fall-2013/86dbb2e3ea801d99104c488691ed238d_MIT8_05F13_exam_form_2013.pdf
+file_size: 123368
 file_type: application/pdf
 learning_resource_types:
 - Exams
