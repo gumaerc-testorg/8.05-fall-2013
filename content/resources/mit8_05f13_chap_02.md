@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource file contains information regarding quantum physics II,
   lecture notes 2.
-file: /courses/8-05-quantum-physics-ii-fall-2013/a56c316e4ec548d8bd0a554fac9a74e8_MIT8_05F13_Chap_02.pdf
+file: /ol-ocw-studio-app/courses/8-05-quantum-physics-ii-fall-2013/a56c316e4ec548d8bd0a554fac9a74e8_MIT8_05F13_Chap_02.pdf
 file_size: 455497
 file_type: application/pdf
 learning_resource_types:
