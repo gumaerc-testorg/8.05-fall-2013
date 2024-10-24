@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-05-quantum-physics-ii-fall-2013/16bde348019239eb06131b47afae21db_r2NMWEsNcTs.pdf
+file: /ol-ocw-studio-app/courses/8-05-quantum-physics-ii-fall-2013/16bde348019239eb06131b47afae21db_r2NMWEsNcTs.pdf
 file_size: 81428
 file_type: application/pdf
 learning_resource_types: []
