@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-05-quantum-physics-ii-fall-2013/08a9c927cbf75624b48dbe2f0ef117f6_jjZM88ku-7k.vtt
+file: /ol-ocw-studio-app/courses/8-05-quantum-physics-ii-fall-2013/08a9c927cbf75624b48dbe2f0ef117f6_jjZM88ku-7k.vtt
 file_size: 66175
 file_type: application/x-subrip
 learning_resource_types: []
