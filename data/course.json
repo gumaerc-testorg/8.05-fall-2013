@@ -23,7 +23,7 @@
     "website": "8-05-quantum-physics-ii-fall-2013"
   },
   "course_title": "Quantum Physics II",
-  "course_description": "Together, this course and [*8.06 Quantum Physics III*](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/) cover quantum physics with applications drawn from modern physics. Topics covered in this course include the general formalism of quantum mechanics, harmonic oscillator, quantum mechanics in three-dimensions, angular momentum, spin, and addition of angular momentum. The lectures and lecture notes for this course form the basis of Zwiebach\u2019s textbook *Mastering Quantum Mechanics* published by\u00a0[MIT Press](https://mitpress.mit.edu/books/mastering-quantum-mechanics)\u00a0in April 2022.",
+  "course_description": "Together, this course and {{% resource_link \"a22074df-502e-4232-9222-f8c48158a1b8\" \"*8.06 Quantum Physics III*\" %}} cover quantum physics with applications drawn from modern physics. Topics covered in this course include the general formalism of quantum mechanics, harmonic oscillator, quantum mechanics in three-dimensions, angular momentum, spin, and addition of angular momentum. The lectures and lecture notes for this course form the basis of Zwiebach\u2019s textbook *Mastering Quantum Mechanics* published by\u00a0{{% resource_link \"d336bd99-192d-4436-bba1-1d20d5398cd4\" \"MIT Press\" %}}\u00a0in April 2022.",
   "department_numbers": [
     "8"
   ],
