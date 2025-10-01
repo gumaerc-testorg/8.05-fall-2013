@@ -12,13 +12,15 @@ optional_tab_title: Lecture Notes
 optional_text: 'This lecture note covers Lectures 12, 13, 14, 15, and 16.
 
 
-  [Quantum Dynamics (PDF)](http://ocw2.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/lecture-notes/MIT8_05F13_Chap_06.pdf)
+  {{% resource_link "4f0dce3f-2001-422c-9bbc-8aaf18a16aa3" "Quantum Dynamics (PDF)"
+  %}}
 
 
   The lecture note below covers Lectures 16, 17, and 18.
 
 
-  [Two State Systems (PDF)](http://ocw2.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/lecture-notes/MIT8_05F13_Chap_07.pdf)'
+  {{% resource_link "ee49ccc3-42fa-4c83-9497-7385a29956c5" "Two State Systems (PDF)"
+  %}}'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
